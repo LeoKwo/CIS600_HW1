@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HW1_RuikangGuo</string>
+    <string name="main_msg">郭睿康</string>
+    <string name="main_switch_orientation_portrait">切换到横向模式</string>
+    <string name="main_switch_orientation_landscape">专业：计算机科学\n年级：研二\n母语：汉语中文</string>
+    <string name="main_action">你好</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW1_RuikangGuo</string>
+    <string name="main_msg">Ruikang Guo</string>
+    <string name="main_switch_orientation_portrait">Switch to landscape mode</string>
+    <string name="main_switch_orientation_landscape">Major: Computer Science\nGrade: Master\nNative Language: Mandarin Chinese</string>
+    <string name="main_action">Hello</string>
+</resources>
